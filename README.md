@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Object Oriented Programming**
 
-- 💬 Ask me about **coffee**
+- 💬 Ask me about **my day**
 
 - 📫 How to reach me **heinrichsorbaf02@gmail.com**
 
