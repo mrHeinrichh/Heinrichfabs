@@ -1,4 +1,5 @@
-![MasterHead](https://cdn.dribbble.com/users/1304577/screenshots/4032985/media/823d941d38b2784563d53dc45859fccd.gif)
+
+<img align="center" alt="Code" width="1000" src="https://media.tenor.com/bc-lvohZ100AAAAC/hack-geek.gif">
 
 <!--
 **Heinrichfabs/Heinrichfabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm John Heinrich Fabros</h1>
 <h3 align="center">A College student at Technological University of the Philippines in Taguig, Metro Manila. Currently a Programmer, Multimedia editor, & Photographer.</h3>
-<img align="right" alt="Code" width="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/media/823d941d38b2784563d53dc45859fccd.gif">
+<img align="right" alt="Code" width="400" src="https://media.tenor.com/S2vLXwYujQcAAAAC/anonymous.gif">
 
 - 🔭 I’m currently working on **Technological University of The Philippines**
 
