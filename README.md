@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm John Heinrich Fabros</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+World!)](https://git.io/typing-svg)
 <h3 align="center">A College student at Technological University of the Philippines in Taguig, Metro Manila. Currently a Programmer, Multimedia editor, & Photographer.</h3>
 <img align="right" alt="Code" width="400" src="https://media.tenor.com/S2vLXwYujQcAAAAC/anonymous.gif">
 
